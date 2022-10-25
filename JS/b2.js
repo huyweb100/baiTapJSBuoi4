@@ -1,7 +1,8 @@
 /**Mô hình 3 khối
  *Khối 1: Nhập thông tin
  * Khối 2: Xử lý 
- *  B1:
+ *  B1: Tạo value ở các option
+ *  B2:
  * Khối 3: xuất dữ liệu chào
  */
 
