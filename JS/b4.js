@@ -12,7 +12,7 @@
  */
 
 
-  function dudoan() {
+  function loaiTamGiac() {
     var a = Number(document.getElementById("a").value);
     var b = Number(document.getElementById("b").value);
     var c = Number(document.getElementById("c").value);
@@ -46,4 +46,4 @@
     }
 
   }
-  document.getElementById("duDoan").onclick = dudoan;
+  document.getElementById("duDoan").onclick = loaiTamGiac;
